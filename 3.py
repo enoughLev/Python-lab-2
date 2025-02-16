@@ -1,5 +1,5 @@
 text = "bad h boy in the darkh"
-lenght = len(text)
+length = len(text)
 mass = list()
 count = 1
 

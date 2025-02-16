@@ -1,4 +1,4 @@
-text = "0xf1232f0"
+text = "0xf12f32f0"
 
 first_f = text.find('f')
 last_f = text.rfind('f')
